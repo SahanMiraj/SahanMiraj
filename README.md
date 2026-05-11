@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Prabash+Sandakalum;Computer+Science+Undergraduate;Web+%26+Mobile+Developer;Passionate+About+AI+%26+Cybersecurity">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Sahan+Miraj;Software+Engineering+Undergraduate;Web+%26+Mobile+Developer;Passionate+About+AI+%26+Cybersecurity">
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>
-🎓 Undergraduate in Computer Science <br>
+🎓 Undergraduate in Software Engineering <br>
 💻 Passionate about Web & Mobile Application Development <br>
 🔐 Interested in Cybersecurity & Modern Technologies <br>
 🤖 Exploring AI Technologies & Software Engineering <br>
@@ -50,7 +50,7 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:Prabashsandakalum0207@gmail.com">
+  <a href="mailto:masssahannalawansha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
