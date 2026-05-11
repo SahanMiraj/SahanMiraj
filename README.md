@@ -33,8 +33,7 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
- 
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prabash0929&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SahanMiraj&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
 ---
@@ -42,7 +41,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabash0929&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahanMiraj&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -54,11 +53,11 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/prabash-sandakalum-88250b2a1">
+  <a href="https://www.linkedin.com/in/m-sahan-miraj-nalawansha-02739236b?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/prabash0929">
+  <a href="https://github.com/SahanMiraj">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
