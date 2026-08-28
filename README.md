@@ -33,11 +33,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SahanMiraj&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahanMiraj&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@
   <a href="mailto:masssahannalawansha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href=(https://www.linkedin.com/in/m-sahan-miraj-nalawansha-02739236b/)>
+  <a href="https://www.linkedin.com/in/m-sahan-miraj-nalawansha-02739236b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
