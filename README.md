@@ -31,12 +31,12 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahanMiraj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SahanMiraj&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanMiraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahanMiraj&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00f7ff&line=00f7ff&point=ffffff" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahanMiraj&theme=tokyo-night&hide_border=true&v=1" alt="Contribution Graph" />
 </p>
 
 ---
