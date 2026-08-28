@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+Welcome+To+My+Profile!;Future+Software+Engineer;[Cyberpunk Theme]">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+Welcome+To+My+Profile!;Future+Software+Engineer;Code+|+Learn+|+Build+|+Innovate">
 </h1>
 
 <p align="center">
-  <img src="[Link to the generated banner or image_3.png content]" alt="Cyberpunk Hacker" style="max-width: 100%;">
+  <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="80px" alt="Cyberpunk Hacker">
 </p>
 
 ---
@@ -31,12 +31,12 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahanMiraj&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SahanMiraj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanMiraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahanMiraj&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahanMiraj&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00f7ff&line=00f7ff&point=ffffff" alt="Contribution Graph" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 <h2 align="center" style="color: #00F7FF;">Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:masssahannalawansha@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=masssahannalawansha@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
   </a>
   <a href="https://www.linkedin.com/in/m-sahan-miraj-nalawansha-02739236b" target="_blank">
