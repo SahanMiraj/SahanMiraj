@@ -45,9 +45,9 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:masssahannalawansha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=masssahannalawansha@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
   <a href="https://www.linkedin.com/in/m-sahan-miraj-nalawansha-02739236b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
