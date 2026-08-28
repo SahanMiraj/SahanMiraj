@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Sahan+Miraj;Software+Engineering+Undergraduate;Web+%26+Mobile+Developer;Passionate+About+AI+%26+Cybersecurity">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+Welcome+To+My+Profile!;Software+Engineering+Undergrad;Future+Software+Engineer;Tech+Enthusiast">
 </h1>
 
 <p align="center">
@@ -8,40 +8,36 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">🚀 About Me & My Journey</h2>
 
 <p align="center">
   <b>
-🎓 Undergraduate in Software Engineering <br>
-💻 Passionate about Web & Mobile Application Development <br>
-🔐 Interested in Cybersecurity & Modern Technologies <br>
-🤖 Exploring AI Technologies & Software Engineering <br>
-🌱 Continuously learning and building innovative projects
+🎓 Software Engineering Undergraduate <br>
+🌱 Constantly learning and exploring new technologies <br>
+🚀 On a journey to become a successful Software Engineer <br>
+💡 Passionate about writing clean code and solving problems <br>
+🎯 Goal: To build tech that makes a positive impact
   </b>  
 </p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center">🛠️ My Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,mysql,firebase,flutter,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SahanMiraj&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahanMiraj&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -49,25 +45,12 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:masssahannalawansha@gmail.com">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/m-sahan-miraj-nalawansha-02739236b?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+  <a href="YOUR_LINKEDIN_URL_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="https://github.com/SahanMiraj">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<h2 align="center">🔥</h2>
-
-<p align="center">
-  <i>"Code • Learn • Build • Innovate"</i>
 </p>
 
 ---
